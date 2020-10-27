@@ -18,7 +18,7 @@
     </header>
     <main>
         <div class="formulario">
-            <form action="up.php" method="post" enctype="multipart/form-data">
+            <form action="upload.php" method="post" enctype="multipart/form-data">
                 <label name="arq">Adicione uma foto ou um vídeo:</label>
                 <p class="detalhe">Os formatos permitidos são jpg, jpeg, png, gif e mp4.</p>
                 <input type="file" name="arq" required><br>
