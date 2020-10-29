@@ -2,4 +2,4 @@
  
 <hr/>
 
-O site pode ser acessado em: <a href="carregador.infinityfree.com">carregador.infinityfree.com</a>.
+O site pode ser acessado em: <a href="carregador.infinityfreeapp.com" target="_blank">carregador.infinityfreeapp.com</a>.
